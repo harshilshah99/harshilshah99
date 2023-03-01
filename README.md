@@ -5,7 +5,7 @@ Hi there 👋, I'm Harshil Shah
 ### About Me👨‍💻
 
 - 🏫 I'm currently studying in VJTI, Mumbai
-- 🔭 Looking forward to contribute in Web Development
+- 🔭 Looking forward to contribute in Web Development and Blockchain
 - 📫 How to reach me **vharshilshah19052002@gmail.com**
 
 <br>

@@ -34,20 +34,20 @@ Hi there 👋, I'm Harshil Shah
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 
 </p>
 
 <br>
 
-### Projects
+<!-- ### Projects
 <p>
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshilshah99&repo=code-collab&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshilshah99&repo=WeBlog&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=harshilshah99&repo=greenPaddle&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-  </p>
+  </p> -->
   
-<br>
-  
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=harshilshah99&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshilshah99&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 

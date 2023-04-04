@@ -8,7 +8,6 @@ Hi there 👋, I'm Harshil Shah
 - 🔭 Looking forward to contribute in Web Development and Blockchain
 - 📫 How to reach me **vharshilshah19052002@gmail.com**
 
-<br>
 
 ### Programming Languages 🧠
 <p>

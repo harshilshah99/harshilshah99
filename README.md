@@ -5,7 +5,8 @@ Hi there 👋, I'm Harshil Shah
 ### About Me👨‍💻
 
 - 🏫 I'm currently studying in VJTI, Mumbai
-- 🔭 Looking forward to contribute in Web/App Development and Blockchain
+- 🔭 Looking forward to contribute in Web/App Development
+- 🎯 Finalist at Smart India Hackathon 2023
 - 📫 How to reach me **vharshilshah19052002@gmail.com**
 
 
